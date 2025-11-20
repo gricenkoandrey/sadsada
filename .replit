@@ -1,0 +1,4 @@
+run = "python3 bot.py"
+language = "python3"
+[nix]
+path = "replit.nix"
